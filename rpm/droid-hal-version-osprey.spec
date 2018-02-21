@@ -5,7 +5,7 @@
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Motorola
-%define device_pretty Moto G (3nd Gen.)
+%define device_pretty Moto G (3rd Gen.)
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator 1 
